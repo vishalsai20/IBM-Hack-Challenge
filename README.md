@@ -5,3 +5,6 @@ This repository contains all the files I used for completing the IBM Hack Challe
 Since my original dataset and cleaned dataset files are large, I'm sharing the drive link that contains those files.
 
 Link : https://drive.google.com/drive/folders/1i06wa-0X9jPay24viFOgwjs5N5XHmf3x?usp=drive_link
+
+
+Currently I am working on the analysis and visualisation part of this project and the results will be shown.
